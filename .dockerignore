@@ -1,0 +1,7 @@
+.dockerignore
+/dist
+*.egg-info
+.git
+.gitignore
+.pylintrc
+venv
